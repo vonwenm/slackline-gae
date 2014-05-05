@@ -2,7 +2,7 @@
 
 Share channels between Slack accounts!
 
-We are big fans of [Slack][https://slack.com/] and have been using it for a while
+We are big fans of [Slack](https://slack.com/) and have been using it for a while
 now. So I just created a quick Google AppEngine service to link two channels from two Slack organizations.
 
 ## How can I set it up?
